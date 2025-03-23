@@ -1,0 +1,3 @@
+.ipynb_checkpoints/
+data/
+vgg.cifar.pretrained.pth
